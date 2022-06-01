@@ -1,4 +1,4 @@
-# DND Faculty Project
+# DAD Faculty Project
 
 This is an android app that uses a backend for processing messages based on the nlp technologie, a simple chatbot 😁
 
